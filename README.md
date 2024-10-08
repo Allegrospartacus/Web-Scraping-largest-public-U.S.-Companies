@@ -1,6 +1,4 @@
 # Web-Scraping-largest-public-U.S.-Companies
-This project involves scraping data from Wikipedia to extract information about the largest public companies in the United States by revenue. The data is processed using Pandas and then saved as a CSV file for further analysis.
-
 **Project Description**
 
 Using Python and the BeautifulSoup library, this script scrapes a table containing a list of the largest public companies in the U.S. by revenue from Wikipedia. 
