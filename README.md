@@ -22,7 +22,9 @@ The dataset scraped includes columns such as Rank, Company, Industry, Revenue, a
 **Key Python Libraries Used**
 
 *BeautifulSoup: For parsing and navigating the HTML structure.
+
 *Pandas: For data cleaning and manipulation.
+
 *Requests: For sending HTTP requests to fetch the webpage.
 
 **How It Works**
